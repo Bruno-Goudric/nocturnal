@@ -1,7 +1,7 @@
 ## Nocturnal
 
 <p>
-![](src/assets/display/home.jpeg)
+![](src/assets/display/home.jpg)
 </p>
 
 ## What to do?
